@@ -17,22 +17,22 @@ fontawesome: true # whether to include fontawesome glyphs on the webpage.
 navbar: # comment out this entire section to disable the navbar
   background: light # or dark, primary, secondary, success, danger, warning, or info
   text: light # or dark. "light" is dark text for light bkgds & "dark" the inverse.
-  position: default # or fixed-top, fixed-bottom, or sticky-top
+  position: sticky-top # or fixed-top, fixed-bottom, or sticky-top
   margin: 20 # pixels between navbar and content.
   # background-color: "#ff99ff" # This must be in quotes and overrides "background" above.
 html-fonts: # comment out this entire section to use default fonts
   body: # If you want just one custom font for everything, set only this one.
     type: sans-serif
-    name: Raleway
-    url: https://fonts.googleapis.com/css?family=Raleway
+    name: Poppins
+    url: https://fonts.googleapis.com/css2?family=Arimo&family=Inter&family=Poppins&display=swap
   headings:
     type: serif # or sans-serif or monospace
-    name: Cormorant Garamond
-    url: https://fonts.googleapis.com/css?family=Cormorant+Garamond
+    name: Poppins
+    url: https://fonts.googleapis.com/css2?family=Arimo&family=Inter&family=Poppins&display=swap
   navbar: 
     type: serif
-    name: Cormorant Garamond
-    url: https://fonts.googleapis.com/css?family=Cormorant+Garamond
+    name: Poppins
+    url: https://fonts.googleapis.com/css2?family=Arimo&family=Inter&family=Poppins&display=swap
   # colors:
   #   body: "#cc0000" # This must be in quotes;
   #   headings: "#00cc00" # This must be in quotes;
